@@ -1,0 +1,20 @@
+﻿body {
+    padding: 30px 30px;
+	text-align: center;
+    }
+h1
+{
+    color:crimson;
+    text-align : center;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+form
+{ 
+    text-align: left; 
+    display: inline-block; 
+    padding: 20px; 
+    width: 300px;  
+    
+}

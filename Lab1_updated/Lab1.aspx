@@ -13,7 +13,7 @@
     <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.js"></script>
 
-    <link href="CSS/main.css" rel="stylesheet" />
+    <link href="Content/main.css" rel="stylesheet" />
     <link rel="shortcut icon" href="images/favicon.ico" />
     
 </head>
