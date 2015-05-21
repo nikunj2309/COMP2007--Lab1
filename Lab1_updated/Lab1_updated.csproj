@@ -59,16 +59,16 @@
   <ItemGroup>
     <Content Include="Content\main.css" />
     <Content Include="images\favicon.ico" />
-    <Content Include="Lab1.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lab1.aspx.cs">
-      <DependentUpon>Lab1.aspx</DependentUpon>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Lab1.aspx.designer.cs">
-      <DependentUpon>Lab1.aspx</DependentUpon>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
